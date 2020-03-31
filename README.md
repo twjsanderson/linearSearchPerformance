@@ -1,6 +1,6 @@
 # Linear Search Algorithm Performance in JS
 
-This application is intedend for Junior Developers who are curious about the performance of linear search implementations in Javascript. Use this as a study guide to familiarize yourself with Linear Serach functions, their implementations, strengths and of course, weaknesses.
+This application is intedend for Junior Developers who are curious about the performance of linear search implementations in Javascript. Use this as a study guide to familiarize yourself with Linear Search functions, their implementations, strengths and of course, weaknesses.
 
 ## Objectives
 
