@@ -86,7 +86,7 @@ const linearV5 = (arr, target, i = 0) => {
     let len = arr.length - 1;
     if (i > len) return false;
     if (arr[i] === target) return true;
-    return linearV5(arr, target, i + 1);
+    linearV5(arr, target, i + 1);
 }; 
 
 module.exports = linearV1, linearV2, linearV3, linearV4, linearV5;
